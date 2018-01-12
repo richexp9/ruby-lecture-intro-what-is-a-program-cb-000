@@ -1,7 +1,7 @@
 # What is a Program?
 
 ### Objectives:
-
+sdf
 * Describe a program.
 * Distinguish between interpreted and compiled programs.
 * How to run a Ruby program in your terminal.
@@ -31,7 +31,7 @@ ruby -v
 ruby 2.2.2p95 (2015-04-13 revision 50295) [x86_64-darwin14]
 ```
 
-As an example, to run a Ruby program that was stored in `some-program.rb` you would simply type: `ruby some-program.rb`. 
+As an example, to run a Ruby program that was stored in `some-program.rb` you would simply type: `ruby some-program.rb`.
 
 ### Words in a Program
 
@@ -41,7 +41,7 @@ Every word and character in a program has to be valid code for the Ruby language
 2. Literal data, things like "Strings" and numbers like 1 or 2.
 3. Barewords you define and create, things like variables and methods.
 
-Anything that isn't one of those is invalid and the Ruby interpreter will throw an error. 
+Anything that isn't one of those is invalid and the Ruby interpreter will throw an error.
 
 Let's say you ran a program, and saw the following output (pay attention to the last line):
 
